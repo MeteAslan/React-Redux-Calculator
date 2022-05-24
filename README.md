@@ -3,7 +3,7 @@
 ## Overview
 
 ![Preview](https://github.com/MeteAslan/React-Redux-Calculator/blob/main/Preview.PNG)
-### [Demo](https://react-redux-calc.netlify.app/)
+### [Demo](https://react-redux-calculator-seven.vercel.app/)
 
 ### Built with
 - React.js
